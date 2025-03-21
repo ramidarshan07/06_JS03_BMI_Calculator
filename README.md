@@ -1,5 +1,8 @@
 # BMI Calculator
 
+![Screenshot 2025-03-21 171422](https://github.com/user-attachments/assets/aff5b6e4-fa3b-4efb-8712-4d219ba1be22)
+
+
 This project implements a **BMI (Body Mass Index) Calculator** using HTML, CSS, and JavaScript. It allows users to input their weight and height to calculate their BMI and provides feedback on their health status.
 
 ## 🛠️ Technologies Used
