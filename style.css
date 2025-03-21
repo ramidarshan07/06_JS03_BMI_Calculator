@@ -82,6 +82,11 @@ input {
     background-color: rgb(245, 201, 143);
 }
 
+input[type="radio"] {
+    accent-color: rgb(255, 145, 0);
+    border: 2px solid rgb(255, 145, 0);
+}
+
 #result {
     border: 3px solid rgb(255, 145, 0);
     padding: 8px 5px;
